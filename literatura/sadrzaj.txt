@@ -1,0 +1,26 @@
+uvod
+-diskretna optimizacija
+-heuristicko resavanje
+
+problem minimalng kasnjenja
+-opste (TSP problem (problemi))
+-matematicka formulacija (funkcija cilja dva nacina)
+-primena
+-resenja (tacna, priblizna, heuristike)
+-poredjenje sa TSP-om, resenja
+
+VNS
+-opste (istorija, varijacije algoritma)
+-pojedini delovi algoritma
+-okoline detaljno (parametri, random fix - smanjenje slozenosti)
+-implementacija
+-dinamicko racunanje funkcije cilja (opis pomocnih dinamickih podataka)
+-parametri (objasnjenja, varijacije)
+
+rezultati
+-parametri
+-poredjenje sa (postojecim rezultatima, TSP optimalnim resenjima)
+
+zakljucak
+
+literatura
